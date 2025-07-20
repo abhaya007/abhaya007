@@ -1,11 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**abhaya007/abhaya007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name]!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +11,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## GitHub Stats
+
+![abhaya007's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaya007&show_icons=true)
+
+## Languages and Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<!-- Add more badges for your favorite languages/tools -->
+
+## Featured Projects
+
+- [Project 1](https://github.com/abhaya007/project1)
+- [Project 2](https://github.com/abhaya007/project2)
+
+<!-- You can customize this as much as you like! -->
