@@ -1,29 +1,47 @@
-# Hi there 👋
+# Hi there, I'm Abhaya 👋  
 
-I'm [Your Name]!
+🎓 **Computer Engineering Graduate** | **AI/ML Enthusiast** | **MERN Stack Learner**  
 
-## About Me
+---
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+- 🧠 **AI/ML Focus:** Natural Language Processing, text summarization, sentiment analysis.  
+- 💻 **Full-Stack Skills:** Learning MERN (MongoDB, Express, React, Node.js).  
+- 🏗 **Hands-On Projects:** Built hybrid **extractive + abstractive summarization** pipelines.  
+- ⚡ **Eager to Collaborate:** Open to internships or trainee positions in **AI, ML, and full-stack development**.  
 
-## GitHub Stats
+---
 
-![abhaya007's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaya007&show_icons=true)
+## 🛠 Tech Stack
+**Languages:** Python, JavaScript (ES6+), C/C++, SQL  
+**AI/ML:** PyTorch, Hugging Face Transformers, Scikit-learn, NumPy, pandas, Matplotlib   
+**Web & Databases:** MERN (learning), MySQL, MongoDB  
+**Developer Tools:** Git/GitHub, Google Colab, Jupyter Notebooks, VS Code,   
 
-## Languages and Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-<!-- Add more badges for your favorite languages/tools -->
+---
 
-## Featured Projects
+## 🌟 Featured Project
+### [Automatic Text Summarization](https://github.com/abhaya007/automatic-text-summarization
+- Developed a **hybrid summarization pipeline**:
+  - **Extractive:** TF-IDF vectorization, similarity matrix, sentence clustering & ranking.
+  - **Abstractive:** Fine-tuned **T5 and BART** transformer models.
+- Preprocessing: Tokenization, lemmatization, stop-word removal.
+- **Evaluation:** Achieved strong **ROUGE-1 and ROUGE-L scores** compared to baselines.
+- **Demo:** Deployed via **Gradio** with FastAPI backend.
 
-- [Project 1](https://github.com/abhaya007/project1)
-- [Project 2](https://github.com/abhaya007/project2)
+---
 
-<!-- You can customize this as much as you like! -->
+## 📈 Current Learning Journey
+- Building personal projects with **MERN stack**.
+- Exploring **transformer architectures** and **fine-tuning NLP models**.
+- Experimenting with deploying AI models to web apps.
+
+---
+
+## 📫 Let's Connect  
+- **GitHub:** [github.com/archanank](https://github.com/abhaya007)  
+- **Email:** abhayakhatri11@gmail.com  
+
+---
+
+> “I’m highly focused, reliable, and love turning complex problems into simple, efficient solutions — whether it’s AI models or full-stack applications.”
