@@ -21,7 +21,7 @@
 ---
 
 ## 🌟 Featured Project
-### [Automatic Text Summarization](https://github.com/abhaya007/automatic-text-summarization
+### Automatic Text Summarization --- (https://github.com/abhaya007/automatic-text-summarization
 - Developed a **hybrid summarization pipeline**:
   - **Extractive:** TF-IDF vectorization, similarity matrix, sentence clustering & ranking.
   - **Abstractive:** Fine-tuned **T5 and BART** transformer models.
