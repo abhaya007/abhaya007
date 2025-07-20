@@ -39,7 +39,6 @@
 ---
 
 ## 📫 Let's Connect  
-- **GitHub:** [github.com/abhaya007](https://github.com/abhaya007)  
 - **Email:** abhayakhatri11@gmail.com  
 
 ---
