@@ -39,7 +39,7 @@
 ---
 
 ## 📫 Let's Connect  
-- **GitHub:** [github.com/archanank](https://github.com/abhaya007)  
+- **GitHub:** [github.com/abhaya007](https://github.com/abhaya007)  
 - **Email:** abhayakhatri11@gmail.com  
 
 ---
